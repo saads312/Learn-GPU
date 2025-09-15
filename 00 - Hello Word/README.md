@@ -8,7 +8,7 @@ My first CUDA program! This will be a basic hello world program in CUDA.
 - Learn how to write a simple kernel function
 - Understand memory allocation on GPU
 
-## What Project Description!
+## Project Description
 A simple "Hello World" program that runs on the GPU and demonstrates:
 - Basic kernel launch syntax
 - Thread identification
